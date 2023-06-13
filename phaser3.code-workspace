@@ -1,0 +1,28 @@
+{
+	"folders": [
+		{
+			"path": ".."
+		},
+		{
+			"name": "StonkGame",
+			"path": "../../CMPM 120/Stonk/StonkGame"
+		},
+		{
+			"path": "../3d Phaser Games"
+		},
+		{
+			"name": "enable3d-website",
+			"path": "../3d Phaser Games/enable3d-website"
+		},
+		{
+			"name": "CMPM-120-Cinematic",
+			"path": "../Cinematic D1.b/CMPM-120-Cinematic"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "phaser3"
+	}
+}

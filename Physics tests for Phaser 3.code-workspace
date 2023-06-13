@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": ".."
+		},
+		{
+			"name": "Connor-example-D3.b",
+			"path": "../Connor-example-D3.b"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "Physics tests for Phaser 3"
+	}
+}
